@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Applied Mathematics/3MP/Worked Questions/Q1.1.8.md",
+            "file": "Miscellaneous/The 3n+1 Problem/Description of the 3n+1 Problem.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applied Mathematics/3MP/Worked Questions/Q1.1.8.md",
+                "file": "Miscellaneous/The 3n+1 Problem/Description of the 3n+1 Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
+    "Miscellaneous/The 3n+1 Problem/Description of the 3n+1 Problem.md",
+    "Miscellaneous/The 3n+1 Problem/Index of the 3n+1 Problem.md",
+    "Miscellaneous/Untitled.md",
+    "Miscellaneous/The 3n+1 Problem/Untitled.md",
+    "Applied Mathematics/3MP/Worked Questions/Q1.1.8.md",
     "MAM3040W/3MP/Worked Questions/Q1.1.8.md",
     "MAM3000W/Definitions of Partial Order, Strict Order, Inclusive Order, Pre-Order, Chain, Antichain.md",
     "MAM3000W/Definitions - Preserve, Reflect, Embed, Isomophic Orders.md",
     "MAM3000W/Definitions - Partial Order, Strict Order, Inclusive Order, Pre-Order, Chain, Antichain.md",
-    "MAM3000W/Index - MAM3000W 3TA Topics in Algebra.md",
-    "MAM3040W/3MP/Untitled.md",
-    "MAM3040W/3MP/Worked Questions/Untitled.md",
-    "MAM3040W/Untitled.md",
-    "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
-    "MAM3000W/3MS Metric Spaces/9..md"
+    "MAM3000W/Index - MAM3000W 3TA Topics in Algebra.md"
   ]
 }

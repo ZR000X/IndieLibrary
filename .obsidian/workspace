@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
-            "mode": "source"
+            "file": "MAM3040W/3MP/Worked Questions/Q1.1.8.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
+                "file": "MAM3040W/3MP/Worked Questions/Q1.1.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
+    "MAM3040W/3MP/Worked Questions/Untitled.md",
+    "MAM3040W/Untitled.md",
     "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
     "MAM3000W/3MS Metric Spaces/9..md",
     "MAM3000W/3MS Metric Spaces/8..md",
@@ -95,8 +97,6 @@
     "MAM3000W/3MS Metric Spaces/Untitled.md",
     "MAM3000W/3MS Metric Spaces/6. Continuous Functions.md",
     "MAM3000W/3MS Metric Spaces/5. Topologies.md",
-    "MAM3000W/3MS Metric Spaces/3. Closed Sets.md",
-    "MAM3000W/3MS Metric Spaces/2. Convergence in Metric Spaces.md",
-    "MAM3000W/3MS Metric Spaces/1. Convergence in Metric Spaces.md"
+    "MAM3000W/3MS Metric Spaces/3. Closed Sets.md"
   ]
 }

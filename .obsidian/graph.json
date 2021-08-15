@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(metric)",
+      "query": "line:(metric)",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24604680451922653,
-  "close": true
+  "scale": 0.774382316568982,
+  "close": false
 }

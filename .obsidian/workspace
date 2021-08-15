@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "README.md",
-    "MAM3000W/3MS Metric Spaces/6. Continuous Functions.md",
+    "MAM3000W/3MS Metric Spaces/4. Open Sets.md",
+    "MAM3000W/3MS Metric Spaces/9..md",
+    "MAM3000W/3MS Metric Spaces/8..md",
+    "MAM3000W/3MS Metric Spaces/7..md",
     "MAM3000W/3MS Metric Spaces/Untitled.md",
-    "MAM3000W/3MS Metric Spaces/Metrics, Norms, and Quasi-Metrics.md",
-    "MAM3000W/3MS Metric Spaces/Convergence in Metric Spaces.md",
-    "MAM3000W/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
-    "Untitled.md",
-    "MAM3000W/Below Scope/Untitled.md",
-    "Index for 3MS Metric Spaces.md",
-    "MAM3000W/Index - MAM3000W 3TA Topics in Algebra.md"
+    "MAM3000W/3MS Metric Spaces/6. Continuous Functions.md",
+    "MAM3000W/3MS Metric Spaces/5. Topologies.md",
+    "MAM3000W/3MS Metric Spaces/3. Closed Sets.md",
+    "MAM3000W/3MS Metric Spaces/2. Convergence in Metric Spaces.md",
+    "MAM3000W/3MS Metric Spaces/1. Convergence in Metric Spaces.md"
   ]
 }

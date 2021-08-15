@@ -1,0 +1,35 @@
+Index: [[Index - MAM3000W 3TA Topics in Algebra]]
+
+# Def: Partial order
+
+A partial order on a [[Definition - Set|set]] $P$ is a [[Definition - Binary Relation|binary relation]] "$\leq$" on $P$ such that, $\forall~x,y,z\in P$, 
+
+1. (Reflexive) $x\leq x$
+2. (Antisymmetric) $x\leq y,~y\leq x~\Rightarrow~x=y$ 
+3. (Transitive) $x\leq y,~y\leq z~\Rightarrow~x\leq z$
+
+We say $x||y$ is $x$ and $y$ are incomparable.
+
+A set $P$ coupled with a partial order $\leq$, is denoted $(P,\leq)$ and is called a partially ordered set ("poset").
+
+# Def: Strict Order
+$x<y~\equiv~x\leq y~\cap~x\neq y$
+
+# Def: Inclusive Order
+
+# Def: Pre-Order
+
+A pre-order is a partial order but without the antisymmetric axiom.
+
+OR
+
+A pre-order ("order") on a [[Definition - Set|set]] $P$ is a [[Definition - Binary Relation|binary relation]] "$\leq$" on $P$ such that, $\forall~x,y,z\in P$, 
+
+1. (Reflexive) $x\leq x$
+2. (Transitive) $x\leq y,~y\leq z~\Rightarrow~x\leq z$
+
+# Chain
+# Antichain
+
+Next: [[Definitions - Preserve, Reflect, Embed, Isomophic Orders]]
+

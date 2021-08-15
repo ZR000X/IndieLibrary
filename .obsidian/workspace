@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "78358aaa1df8d2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "927d08c962f60500",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13309fa2edb313d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5cceba362c7fb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba7b6f86ae113ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd382fb6f337b711",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77d6290d035564fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ea1d52dec2cb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1a54607fe3d200",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "927d08c962f60500",
+  "lastOpenFiles": [
+    "README.md",
+    "MAM3000W/3MS Metric Spaces/6. Continuous Functions.md",
+    "MAM3000W/3MS Metric Spaces/Untitled.md",
+    "MAM3000W/3MS Metric Spaces/Metrics, Norms, and Quasi-Metrics.md",
+    "MAM3000W/3MS Metric Spaces/Convergence in Metric Spaces.md",
+    "MAM3000W/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
+    "Untitled.md",
+    "MAM3000W/Below Scope/Untitled.md",
+    "Index for 3MS Metric Spaces.md",
+    "MAM3000W/Index - MAM3000W 3TA Topics in Algebra.md"
+  ]
+}

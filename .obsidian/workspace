@@ -7,8 +7,11 @@
         "id": "927d08c962f60500",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Indexes/Pure Mathematics.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indexes/Pure Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
+    "Untitled.md",
     "Pure Mathematics/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
     "Pure Mathematics/3MS Metric Spaces/6. Continuous Functions.md",
     "Pure Mathematics/3MS Metric Spaces/5. Topologies.md",
@@ -92,7 +97,6 @@
     "Pure Mathematics/3MS Metric Spaces/2. Convergence in Metric Spaces.md",
     "Pure Mathematics/3MS Metric Spaces/1. Metrics, Norms, and Quasi-Metrics.md",
     "test.md",
-    "Untitled.md",
     "Pure Mathematics/3MS Metric Spaces/7..md"
   ]
 }

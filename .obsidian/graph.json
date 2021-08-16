@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "line:(metric)",
+      "query": "path:test",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14335
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.774382316568982,
-  "close": false
+  "scale": 0.3496597027216627,
+  "close": true
 }

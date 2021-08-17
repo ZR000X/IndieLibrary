@@ -1,10 +1,4 @@
 	
-# Question
-	
-Consider the nonlinear Shr&ouml;dinger equation $$i\psi_t+\int_{-\infty}^{\infty}J(x-y)\left[\psi(y,t)-\psi(x,t)\right]dy=0$$ where $J(p)=e^{-\alpha|p|},~\alpha>0$.
-
-Show first that the equation can be written as $$i\psi_t+\frac{2}{\alpha}\left(-\frac{\partial^2}{{\partial x}^2}+\alpha^2\right)^{-1}\psi_{xx}=0$$ and then find the dispersion law.
-	
 # Solution
 Let
 $$

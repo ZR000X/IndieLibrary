@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "README.md",
-    "Users/ZR000/Miscellaneous/Quantum Complexity/Untitled.md",
-    "Users/ZR000/Applied Mathematics/3MP/Untitled.md",
-    "Users/ZR000/Applied Mathematics/3MP/Index for 3MP Mathematical Physics.md",
-    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.2..md",
-    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.1. Partial Order, Strict Order, Inclusive Order, Pre-Order, Chain, Antichain.md",
-    "Users/ZR000/Pure Mathematics/Below Scope/Untitled.md",
-    "Users/ZR000/Pure Mathematics/Below Scope/Definition - Well-Defined.md",
-    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.3..md",
-    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.N. Preserve, Reflect, Embed, Isomophic Orders.md"
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Index for 3MP Mathematical Physics.md",
+    "User Directories/ZR000/Pure Mathematics/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.2. The Fourier Transform.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Untitled.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Worked Questions/Q1.1.8.md",
+    "User Directories/ZR000/Calculus/Untitled.md",
+    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.2. The Fourier Transform.md",
+    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.1. The Dispersion Relation.md",
+    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/Index for 3MP Mathematical Physics.md"
   ]
 }

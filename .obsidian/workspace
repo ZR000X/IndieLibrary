@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Indexes/Pure Mathematics.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/Pure Mathematics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Pure Mathematics/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
-    "Pure Mathematics/3MS Metric Spaces/6. Continuous Functions.md",
-    "Pure Mathematics/3MS Metric Spaces/5. Topologies.md",
-    "Pure Mathematics/3MS Metric Spaces/4. Open Sets.md",
-    "Pure Mathematics/3MS Metric Spaces/3. Closed Sets.md",
-    "Pure Mathematics/3MS Metric Spaces/2. Convergence in Metric Spaces.md",
-    "Pure Mathematics/3MS Metric Spaces/1. Metrics, Norms, and Quasi-Metrics.md",
-    "test.md",
-    "Pure Mathematics/3MS Metric Spaces/7..md"
+    "README.md",
+    "Users/ZR000/Miscellaneous/Quantum Complexity/Untitled.md",
+    "Users/ZR000/Applied Mathematics/3MP/Untitled.md",
+    "Users/ZR000/Applied Mathematics/3MP/Index for 3MP Mathematical Physics.md",
+    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.2..md",
+    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.1. Partial Order, Strict Order, Inclusive Order, Pre-Order, Chain, Antichain.md",
+    "Users/ZR000/Pure Mathematics/Below Scope/Untitled.md",
+    "Users/ZR000/Pure Mathematics/Below Scope/Definition - Well-Defined.md",
+    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.3..md",
+    "Users/ZR000/Pure Mathematics/3TA Topics in Algebra/3TA.N. Preserve, Reflect, Embed, Isomophic Orders.md"
   ]
 }

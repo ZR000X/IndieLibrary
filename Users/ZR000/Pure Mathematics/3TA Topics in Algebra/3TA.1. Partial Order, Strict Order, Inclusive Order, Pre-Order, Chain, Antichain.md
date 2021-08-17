@@ -1,5 +1,9 @@
 Index: [[Index for 3TA Topics in Algebra]]
 
+Prev: [[Index for 3TA Topics in Algebra]]
+
+Next: [[3TA.2.]]
+
 # Def: Partial order
 
 A partial order on a [[Definition - Set|set]] $P$ is a [[Definition - Binary Relation|binary relation]] "$\leq$" on $P$ such that, $\forall~x,y,z\in P$, 
@@ -10,7 +14,7 @@ A partial order on a [[Definition - Set|set]] $P$ is a [[Definition - Binary Rel
 
 We say $x||y$ is $x$ and $y$ are incomparable.
 
-A set $P$ coupled with a partial order $\leq$, is denoted $(P,\leq)$ and is called a partially ordered set ("poset").
+A set $P$ coupled with a partial order $\leq$, is denoted $(P,\leq)$ and is called a partially ordered set ("poset"). We shall refer to $\mathcal{P}$ as the set of all posets.
 
 # Def: Strict Order
 $x<y~\equiv~x\leq y~\cap~x\neq y$
@@ -38,5 +42,8 @@ Let $(P,\leq)$ be a poset.
 * We denote $\overline{n}$ the $n$-element antichain.
 * Arbitrary set can be turned into a poset by imposing the discrete order.
 
-Next: [[2. Preserve, Reflect, Embed, Isomophic Orders]]
+Next: [[3TA.2.]]
 
+Prev: [[Index for 3TA Topics in Algebra]]
+
+Index: [[Index for 3TA Topics in Algebra]]

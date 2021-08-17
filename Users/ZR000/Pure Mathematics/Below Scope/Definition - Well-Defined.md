@@ -1,0 +1,1 @@
+Any mathematical object is **well-defined** if it has a clear interpretation or value.

@@ -23,3 +23,19 @@ $$U(k,t)=F(k)e^{-\kappa k^2 t}$$
  verifying that $F(k)$ is the fourier integral of $f(x)$.
  
  # The Convolution Theorem
+ Suppose
+ $$f(x)=\int F(k)e^{-ikx}dk$$
+ $$g(x)=\int G(k)e^{-ikx}dk$$
+ $$H(k)=F(k)G(k)$$
+ $$h(x)=\int H(k)e^{-ikx}dk$$
+
+What is the dependency of $h$ on $f,g$? Well,
+$$h(x)=\int F(k)G(k)e^{-ikx}dk$$
+$$h(x)=\int \left[\int F(k)e^{-ikx}dk\right]G(k)e^{-ikx}dk$$
+$$h(x)=\int \left[\frac{1}{2\pi}\int f(x')e^{ikx'}dx'\right]G(k)e^{-ikx}dk$$
+$$h(x)=\frac{1}{2\pi}\int f(x')\left[\int G(k)e^{-ik(x-x')}dk\right]dx'$$
+$$h(x)=\frac{1}{2\pi}\int f(x')g(x-x')dx'$$
+
+We call this quantity, 
+$$f*g=\frac{1}{2\pi}\int f(x')g(x-x')dx'$$
+the convolution of $f$ and $g$.

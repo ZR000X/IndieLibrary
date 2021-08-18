@@ -1,8 +1,8 @@
 Index: [[Index for 3MP Mathematical Physics]]
 
-Prev: [[3MP.1. The Dispersion Relation]]
+Prev: [[3MP.1.1. The Dispersion Relation]]
 
-Next: [[3MP.3. Fourier Transform of PDEs on the line]]
+Next: [[3MP.1.3. Fourier Transform of PDEs on the line]]
 
 ---
 
@@ -58,6 +58,6 @@ Show first that the equation can be written as $$i\psi_t+\frac{2}{\alpha}\left(-
 
 Index: [[Index for 3MP Mathematical Physics]]
 
-Prev: [[3MP.1. The Dispersion Relation]]
+Prev: [[3MP.1.1. The Dispersion Relation]]
 
-Next: [[3MP.3. Fourier Transform of PDEs on the line]]
+Next: [[3MP.1.3. Fourier Transform of PDEs on the line]]

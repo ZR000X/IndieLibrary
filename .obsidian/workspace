@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
-            "mode": "source"
+            "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Chapter 1/3MP.1.5. The Shr&ouml;dinger Equation & Parseval's Identity.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 437
   },
   "right": {
     "id": "77d6290d035564fe",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
+                "file": "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Chapter 1/3MP.1.5. The Shr&ouml;dinger Equation & Parseval's Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.3. Fourier Transform of PDEs on the line.md",
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Index for 3MP Mathematical Physics.md",
-    "User Directories/ZR000/Pure Mathematics/3MS Metric Spaces/Index for 3MS Metric Spaces.md",
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.2. The Fourier Transform.md",
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Untitled.md",
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Worked Questions/Q1.1.8.md",
-    "User Directories/ZR000/Calculus/Untitled.md",
-    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.2. The Fourier Transform.md",
-    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/3MP.1. The Dispersion Relation.md",
-    "Users/ZR000/Applied Mathematics/3MP Mathematical Physics/Index for 3MP Mathematical Physics.md"
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Chapter 1/3MP.1.5. The Shr&ouml;dinger Equation & Parseval's Identity.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Chapter 1/3MP.1.4. General Linear PDE with Constant Coefficients.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Some Differential Equations.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP.1.5. Workings of Conservation Laws.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Finding the local conservation law form 3MP.5..md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Parseval's Identity.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Convolution Theorem.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Influence Function.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Calculation of the Gaussian Integral.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Calculation of Integral from 3MP.3..md"
   ]
 }

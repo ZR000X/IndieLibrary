@@ -1,1 +1,2 @@
-[[Index of the 3n+1 Problem]]
+[[Index for ZR000 Miscellaneous]]
+[[Index for ZR000 Quantum Complexity]]

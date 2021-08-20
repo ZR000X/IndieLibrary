@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
-            "mode": "preview"
+            "file": "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/Course Notes/Inverse Functions.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
+                "file": "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/Course Notes/Inverse Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
+    "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/Course Notes/Untitled.md",
+    "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/1. Sine.md",
+    "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/2. Cosine.md",
+    "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/Knowledge Bank/Proving that Perpendicular Lines have Gradient Product -1.md",
+    "User Directories/ZR000/Miscellaneous/The Trigonometric Functions/Untitled.md",
+    "User Directories/ZR000/Miscellaneous/Proving that Perpendicular Lines have Gradient Product -1.md",
+    "User Directories/ZR000/Miscellaneous/Proving that the Tangent is Perpendicular to the Radius.md",
+    "User Directories/ZR000/Miscellaneous/Untitled.md",
     "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/3QC. Gaussian Integral Identity.md",
-    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Calculation of the Gaussian Integral.md",
-    "README.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/3QC. Raising and Lowering Operators.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Unitary Operator.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Uncertainty Principle.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Ring Commutator.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Raising and Lowering Operators.md",
-    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Hilbert Space.md"
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Calculation of the Gaussian Integral.md"
   ]
 }

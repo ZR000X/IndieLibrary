@@ -10,4 +10,6 @@ where $a$ is some starting number and $f$ is a function.
 
 So, the recursive sequence $(x_n)$ is obtained through iteration of the function. In general, we don't expect to obtain an explicit formula for $x_n(n)$ but in general we won't need to.
 
-We also use the term **recurrent** sequences for recurvsive sequences (for some reason). https://en.wikipedia.org/wiki/Recurrent_sequence
+We also use the term **recurrent** sequences for recurvsive sequences (for some reason). https://en.wikipedia.org/wiki/Recurrent_sequence.
+
+Also, we can use short-hand to denote a recursive sequence $(x_n)[a,f]$ to be equivalent to the notation above, since we need only specify the starting point and the iterative function.

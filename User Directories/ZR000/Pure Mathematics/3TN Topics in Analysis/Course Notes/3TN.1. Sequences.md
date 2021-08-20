@@ -48,7 +48,7 @@ This triggers a [[3TN.P4. Proposition 2|proposition]], which to be applied simpl
 ---
 
 # Monotonicity of a recurrent sequence
-We start with a 
+We start with a [[3TN.P5. Proposition 3|proposition]] and its [[3TN.P6. Corollary 3|corollary]].
 
 ---
 

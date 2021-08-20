@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P6. Corollary 3.md",
-            "mode": "source"
+            "file": "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P6. Corollary 3.md",
+                "file": "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P6. Corollary 3.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN. Recursive Sequences.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN. Recurrent Sequences.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P5. Proposition 3.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/Untitled.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P4. Proposition 2.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P4. Proposition 2 1.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Notes/3TN.1. Sequences.md",
-    "Indexes/Pure Mathematics.md",
-    "User Directories/ZR000/Pure Mathematics/3TN Topics in Analysis/Auxiliary Notes/3TN.P4. Proposition.md"
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Course Notes/3QC.1..md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/3QC. Gaussian Integral Identity.md",
+    "User Directories/ZR000/Applied Mathematics/3MP Mathematical Physics/Auxiliary Notes/3MP. Calculation of the Gaussian Integral.md",
+    "README.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/3QC. Raising and Lowering Operators.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Unitary Operator.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Uncertainty Principle.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Ring Commutator.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Raising and Lowering Operators.md",
+    "User Directories/ZR000/Applied Mathematics/3QC Quantum Complexity/Knowledge Bank/QC. Hilbert Space.md"
   ]
 }

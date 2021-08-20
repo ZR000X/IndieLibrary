@@ -1,6 +1,6 @@
 Index: [[Index for ZR000 Quantum Complexity]]
 
-A unitary operator $\hat{U}$ is an operator whose [[Adjoint|adjoint]] is equal to its inverse, that is,
+A unitary operator $\hat{U}$ is an operator whose [[3QC. Adjoint|adjoint]] is equal to its inverse, that is,
 $$\hat{U}^\dagger=\hat{U}^{-1}~~\Leftrightarrow~~\hat{U}^\dagger\hat{U}=\hat{U}\hat{U}^{\dagger}=\mathbb{1}$$
 
 # Property 1

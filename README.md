@@ -1,7 +1,9 @@
 # Indie Library
-Thank you for stopping by and taking a look at our Open Education project of collaborative markdown notes. 
+Thank you for stopping by and taking a look at our Open Education project of collaborative markdown notes.
 
-Currently, most of the library is written using [Obsidian](https://obsidian.md), so you'll need to install it to view that part of the library at best quality. We recommend using [GitHub Desktop](https://desktop.github.com) as well to get the project onto your computer.
+## Installation
+1. Download and install [GitHub Desktop](https://desktop.github.com), then clone this project using it.
+2. Download and install [Obsidian](https://obsidian.md)., then open the local directory as a "vault" using it.
 
 Feel free to fork the entire knowledge base to play around with it or check out the [Discord Server](https://discord.gg/JTghgKmc7U) (Indie Academy Discord Server, or IADS) to join our fearless band of intellectual warriors facing the perils of STEM fields, together :').
 

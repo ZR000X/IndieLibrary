@@ -1,0 +1,2 @@
+For arbitrary metric space $(X,d)$ and some subset $A$, we define the closure of $A$, denoted as $\bar{A}$, to be the set that contains all the limit points of $A$, i.e.,
+$$\bar{A}=\{a\in X:\exists(a_n)\subseteq A:~a_n\to a\}$$

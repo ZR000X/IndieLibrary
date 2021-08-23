@@ -1,0 +1,1 @@
+For arbitrary metric space $(X,d)$, let $A$ be a subset of $X$ and make $(A,d_A)$ be an induced metric space where $d_A=d$ for the domain of $A$. We call $A$ a **closed** set if it contains all of its limit points.

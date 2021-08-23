@@ -1,0 +1,1 @@
+For an arbitrary metric space $(X,d)$, take any sequence $(x,n)$ such that it converges and that $x_n\to x$. Then $x$ is a limit point of $X$.

@@ -62,17 +62,16 @@ $$\ket{\psi_0}=\psi(x,0)=\mathcal{N}_0\exp\left(-\frac{1}{2}\omega_0 x^2\right),
 $$\ket{\psi(t)}=\psi(x,t)=e^{-iHt}\psi(x,0)=e^{-iHt}\ket{\psi_0}$$
 $$\psi(x,t)=\int dx'K(x,t;x',0)\psi_0(x')$$
 $$K(x,t;x',0)=\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\right)^{1/2}\exp\left\{\frac{i\omega_1}{2}\left[\left(x^2+x'^2\right)\cot(\omega_1 t)\right]-\frac{2xx'}{\sin(\omega_1 t)}\right\}$$
-$$\therefore\psi(x,t)=\mathcal{N}_0\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\right)^{1/2}\int dx'\exp\left\{\frac{i\omega_1}{2}\left[\left(x^2+x'^2\right)\cot(\omega_1 t)\right]-\frac{2xx'}{\sin(\omega_1 t)}\right\}\exp\left(-\frac{1}{2}\omega_0 x^2\right)$$
-$$\text{Let}~~~I=\int dx'\exp\left\{\left(i\cot(\omega_1 t)-1\right)\frac{\omega_1}{2}x'^2-\frac{2xx'}{\sin(\omega_1 t)}\right\}$$
+$$\therefore\psi(x,t)=\mathcal{N}_0\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\right)^{1/2}\int dx'\exp\left\{\frac{i\omega_1}{2}\left[\left(x^2+x'^2\right)\cot(\omega_1 t)\right]-\frac{2xx'}{\sin(\omega_1 t)}\right\}\exp\left(-\frac{1}{2}\omega_0 x'^2\right)$$
+$$\text{Let}~~~I=\int dx'\exp\left\{\left[\left(i\cot(\omega_1 t)\right)\frac{\omega_1}{2}-\frac{\omega_0}{2}\right]x'^2-\frac{2xx'}{\sin(\omega_1 t)}\right\}$$
 $$\Rightarrow~~~\psi(x,t)=\mathcal{N}_0\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\right)^{1/2}\exp\left(\frac{i\omega_1}{2}x^2\cot(\omega_1 t)\right)I$$
 
 Using [[3QC. Gaussian Integral Identity|this general result]],
 
-$$I=\left(\frac{2\pi}{\omega_1-i\omega_1\cot{(\omega_1 t)}}\right)^{1/2}\exp\left(\frac{2x^2}{\sin^2{(\omega_1 t)}\left(\omega_1-i\omega_1\cot{(\omega_1 t)}\right)}\right)$$
+$$I=\ldots=\left(\frac{2\pi}{\omega_0-i\omega_1\cot{(\omega_1 t)}}\right)^{1/2}\exp\left(\frac{2x^2}{\sin^2{(\omega_1 t)}\left(\omega_0-i\omega_1\cot{(\omega_1 t)}\right)}\right)$$
 
-$$\therefore \psi(x,t)=\mathcal{N}_0\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\frac{2\pi}{\omega_1-i\omega_1\cot{(\omega_1 t)}}\right)^{1/2}\exp\left(\frac{2x^2}{\sin^2{(\omega_1 t)}\left(\omega_1-i\omega_1\cot{(\omega_1 t)}\right)}+\frac{i\omega_1}{2}x^2\cot(\omega_1 t)\right)$$
+$$\therefore \psi(x,t)=\mathcal{N}_0\left(\frac{\omega_1}{i2\pi\sin(\omega_1 t)}\frac{2\pi}{\omega_0-i\omega_1\cot{(\omega_1 t)}}\right)^{1/2}\exp\left(\frac{2x^2}{\sin^2{(\omega_1 t)}\left(\omega_0-i\omega_1\cot{(\omega_1 t)}\right)}+\frac{i\omega_1}{2}x^2\cot(\omega_1 t)\right)$$
 
----
-We have
-$$\ket{\psi_R}=\hat{U}\ket{\psi_T}$$
-which is some [[3QC. Unitary Operator|unitary operator.]]
+$$\Rightarrow \psi(x,t)=\underbrace{\mathcal{N}_0\left(\frac{\omega_1}{i\sin(\omega_1 t)}\right)^{1/2}\left(\frac{1}{\omega_0-i\omega_1\cot{(\omega_1 t)}}\right)^{1/2}}_{\mathcal{N}(t)}\exp\underbrace{\left(\frac{2x^2}{\sin^2{(\omega_1 t)}\left(\omega_0-i\omega_1\cot{(\omega_1 t)}\right)}+\frac{i\omega_1}{2}x^2\cot(\omega_1 t)\right)}_{-\frac{1}{2}\omega(t)x^2}$$
+
+$$\therefore \omega(t)=\frac{-4/\sin^2{(\omega_1 t)}}{\omega_0-i\omega_1\cot{(\omega_1 t)}}-i\omega_1\cot(\omega_1 t)

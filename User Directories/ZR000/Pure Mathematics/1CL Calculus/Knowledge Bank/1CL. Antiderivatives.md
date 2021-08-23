@@ -1,0 +1,1 @@
+A function $F$ is called an anti-derivative of $f$ on an interval $I$ iff $$\forall x\in I,~~F'(x)=f(x)$$

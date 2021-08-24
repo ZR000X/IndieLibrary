@@ -1,6 +1,12 @@
 Index: [[Index for ZR000 1FM Fundamentals of Mathematics]]
 
+Prev: [[Index for ZR000 1FM Fundamentals of Mathematics]]
+
+Next: [[1FM.2. Comparing Cardinalities]]
+
 See: Hammack 14.1.
+
+---
 
 # Cardinality
 
@@ -14,7 +20,7 @@ Q: $|\mathbb{N}|=|\mathbb{Z}|$?. Yes. (Exercise)
 
 Q: $|\mathbb{N}|=|\mathbb{R}|$?. No. Georg Cantor proved this to be impossible using what is known as the [Cantor Diagonal Argument]
 
-We now show that the equality of cardinality is an [[1FM. Definition - Equivalence Relation|equivalence relation]]. We do that in this proposition. Then we define the [[1FM. Cardinal Numbers|cardinal numbers]].
+We now show that the equality of cardinality is an [[1FM. Definition - Equivalence Relation|equivalence relation]]. We do that in this proposition. Then we define the [[1FM. Definition - Cardinal Numbers|cardinal numbers]].
 
 ---
 
@@ -30,16 +36,29 @@ It remains to be clear that this formula for $f(x)$ is a bijection. Hence, once 
 
 # Why's $|\mathbb{N}|$ special?
 
-Consider $\mathbb{N}$. We can list the naturals in a sequence, each natural taking a finite time to reach, if one is "counting" at any non-zero pace. This property is not enjoyed by "uncountable" sets such as $\mathbb{R}$. This prompts a definition of [[1FM. Countably Infinite etc.|countably infinite]] and other terms.
+Consider $\mathbb{N}$. We can list the naturals in a sequence, each natural taking a finite time to reach, if one is "counting" at any non-zero pace. This property is not enjoyed by "uncountable" sets such as $\mathbb{R}$. This prompts a definition of [[1FM. Definition - Countably Infinite etc.|countably infinite]] and other terms.
 
-We have a [[1FM.P3. Theorem|theorem]]. Convince yourself that:
+We have a [[1FM.P3. Theorem - Countable means Listable|theorem]]. Convince yourself that:
 
 * $|\mathbb{N}|$ is countable.
 * $|\mathbb{Z}|$ is countable.
 * $|\mathbb{Q}|$ is countable. (Exercise)
 * $|\mathbb{R}|$ is uncountable.
 
-We have another [[1FM.P4. Theorem|theorem]] which states that the union of two countably infinite sets is again countably infinite.
+We have another [[1FM.P4. Theorem - Unions of Countable are Countable|theorem]] which states that the union of two countably infinite sets is again countably infinite.
+
+---
+
+# More on Cardinal Numbers
+Any finite number $n\in\mathbb{N}$ can be thought of as a cardinal number representing the cardinality of all sets $S$ such that $|S|=n$. But then we think of the cardinal number $|\mathbb{N}|=\aleph_0$ See [[1FM. Cardinal Number|the definition]] and [[1FM.P5. Theorem - Cross Product of Aleph0 is Aleph0|the following theorem]], which allows us [[1FM.P6. Corrollary - The Rationals are Countable|this corollary]] that the rationals are also countably infinite.
+
+---
+
+Index: [[Index for ZR000 1FM Fundamentals of Mathematics]]
+
+Prev: [[Index for ZR000 1FM Fundamentals of Mathematics]]
+
+Next: [[1FM.2. Comparing Cardinalities]]
 
 
 

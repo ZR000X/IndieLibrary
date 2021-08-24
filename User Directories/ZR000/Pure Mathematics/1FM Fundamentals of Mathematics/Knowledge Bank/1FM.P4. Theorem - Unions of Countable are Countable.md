@@ -2,7 +2,7 @@ Index: [[Index for ZR000 1FM Fundamentals of Mathematics]]
 
 Return: [[1FM.1. Cardinality]]
 
-See: [[1FM. Countably Infinite etc.]]
+See: [[1FM. Definition - Countably Infinite etc.]]
 
 If $A$ and $B$ are countably infinite sets, then $A\cup B$ is countably infinite.
 

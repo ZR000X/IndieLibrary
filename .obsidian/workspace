@@ -7,11 +7,8 @@
         "id": "927d08c962f60500",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/1CL. The Fundamental Theorem of Calculus P2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,13 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/1CL. The Fundamental Theorem of Calculus P2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -83,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
   "active": "927d08c962f60500",
   "lastOpenFiles": [
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/1CL. The Fundamental Theorem of Calculus P2.md",
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/1CL. The Fundamental Theorem of Calculus P1.md",
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/Untitled.md",
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Knowledge Bank/1CL. The Mean Value Theorem.md",
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Course Notes/Untitled.md",
-    "User Directories/ZR000/__GENERAL KNOWLEDGE BANK/Mathematics/KB_Limit Laws.md",
-    "User Directories/ZR000/Pure Mathematics/1CL Calculus/Course Notes/1CL.1. The Fundamental Theorem.md",
-    "README.md",
-    "User Directories/ZR000/Pure Mathematics/3MS Metric Spaces/Knowledge Bank/3MS.P9 Proposition - Useful Properties of Closure.md",
-    "User Directories/ZR000/Pure Mathematics/3MS Metric Spaces/Knowledge Bank/Untitled.md"
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Untitled.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Index for ZR000 1FM Fundamentals of Mathematics.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Problem Bank/1FM. Worksheet 1 1.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Knowledge Bank/1FM. Definition - Equivalence Relation.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Knowledge Bank/1FM. Definition - Countably Infinite etc..md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Knowledge Bank/1FM. Definition - Cardinal Numbers.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Problem Bank/1FM. Worksheet 1.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Knowledge Bank/1FM.P8. Corollary - There are infinitely many cardinal numbers.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Problem Bank/Untitled.md",
+    "User Directories/ZR000/Pure Mathematics/1FM Fundamentals of Mathematics/Course Notes/1FM.2. Comparing Cardinalities.md"
   ]
 }
